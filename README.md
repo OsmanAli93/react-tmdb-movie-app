@@ -15,6 +15,8 @@ This is a front end project built using latest react version and libraries to pu
 # Getting Started
 
 1. Clone this repo.
-2. Run npm install to install all the depedencies
-3. Run npm start to initialize the project 
-4. Done!
+2. Create your own free API key by sign up  - <a href="https://www.themoviedb.org/signup">here</a>
+3. Create .env file in your root clone repo and put REACT_APP_API_KEY='yourApiKey'.
+4. Run npm install to install all the depedencies
+5. Run npm start to initialize the project 
+6. Done!
