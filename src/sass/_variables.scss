@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
+
+$primary-color: #0f171e;
+$secondary-color: #1a242f;
+$font-primary: #ffffff;
+$font-secondary: #79b8f3;
+
+$body-bg: $primary-color;
+$body-color: $font-primary;
+
+// Typhography
+$font-family-sans-serif: "Open Sans", sans-serif;
+$headings-font-family: $font-family-sans-serif;
+
+// Navbar
+$navbar-light-color: $font-primary;
+$navbar-light-brand-color: $font-primary;
+$navbar-light-hover-color: rgba($font-primary, 0.8);
+$navbar-light-brand-hover-color: rgba($font-primary, 0.8);
