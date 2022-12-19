@@ -20,3 +20,7 @@ This is a front end project built using latest react version and libraries to pu
 4. Run npm install to install all the depedencies
 5. Run npm start to initialize the project 
 6. Done!
+
+# Live Site
+
+Project is currently hosted using netlify . you can see it here - <a href="https://roaring-toffee-5ff41d.netlify.app">here</a>
